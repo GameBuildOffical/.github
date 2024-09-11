@@ -19,26 +19,31 @@ With GameBuild, developers can easily integrate blockchain features into both tr
 - Cross-platform Support: Apply GameBuild SDK to both traditional and Web3 gaming ecosystems.
 
 ## Modules of GameBuild SDK
+
 **1. Identity Management Module**
 The cornerstone of the SDK, providing secure user authentication and linking digital identities to in-game assets and transactions.
 - User Authentication: Link digital assets and transactions to user identities using blockchain.
 - Wallet Integration: Seamless login and verification via wallet addresses.
 - Account Management: Manage user accounts with wallet-binding features.
+  
 **2. Asset Management Module**
 Facilitates the creation, management, and tokenization of in-game assets.
 - Tokenization: Create fungible (FT) and non-fungible tokens (NFTs) for in-game assets.
 - Ownership and Transfer: Securely manage and transfer tokenized assets between players.
 - Interoperable Assets: Utilize assets across different games in the GameBuild ecosystem.
+  
 **3. Security Protection Module**
 Ensures user data and assets are safe from potential threats, employing advanced cryptographic techniques.
 - Cryptographic Security: Protect assets with blockchain-based cryptography.
 - Multi-Signature Transactions: Enhance security in asset transfers with multi-sig support.
 - Data Integrity: Ensure the authenticity of in-game data through integrity checks.
+  
 **4. Ad Management Module**
 Monetize games through dynamic, in-game advertising spots.
 - Ad Spots: Embed tradable, dynamic ad spaces in games.
 - Targeted Ads: Use user data to display relevant ads for a more personalized experience.
 - Revenue Generation: Create new revenue streams by integrating ads into game environments.
+  
 **5. Data Analysis Module**
 Collects and analyzes in-game data to provide insights into user behavior, asset management, and ad performance.
 - User Behavior Insights: Analyze engagement metrics such as retention rates and asset usage.
@@ -47,13 +52,15 @@ Collects and analyzes in-game data to provide insights into user behavior, asset
 
 ## Get Started
 Explore the GameBuild SDK and contact us to start integrating with GameBuild! We’re here to help! If you have any questions or need technical support, feel free to reach out to us:
-Website: [game.build](https://game.build/)
-Litepaper: [GameBuild LightPaper](https://github.com/GameBuildOffical/docs/blob/main/GameBuildLightPaper.pdf)
-X: [@GameBuild_](https://x.com/GameBuild_ )
-Telegram: [GameBuild Official](https://t.me/gamebuildofficial)
-Email: contact@game.build
+- Website: [game.build](https://game.build/)
+- Litepaper: [GameBuild LightPaper](https://github.com/GameBuildOffical/docs/blob/main/GameBuildLightPaper.pdf)
+- X: [@GameBuild_](https://x.com/GameBuild_ )
+- Telegram: [GameBuild Official](https://t.me/gamebuildofficial)
+- Email: contact@game.build
+  
 ## License
 GameBuild SDK is released under the MIT License.
+
 ## Contributing
 We welcome contributions! To contribute:
 - Fork the repository.
